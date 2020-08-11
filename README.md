@@ -6,11 +6,10 @@ As a hobby, I like solving coding challenges on codewars, reading, hitting the g
 ## More About Me:
 🛠 Tech Stack
 
-- 💻  Python | Java | C++ | R (Statistics) | MATLAB
 - 🌐  HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢  MySQL | MongoDB
-- 🔧  Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🛢  | MongoDB
+- 🔧  Git | 
+- 🖥  Illustrator| Photoshop | InDesign
 
 
 
