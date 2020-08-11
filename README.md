@@ -3,9 +3,7 @@
 Im a Frontend Developer with Digital Marketing background and love for anything Tech. I am a big fan of Javascript, React and Node.
 As a hobby, I like solving coding challenges on codewars, reading, hitting the gym, and a long time ago, playing American football.
 
-# More About Me:
-## 🛠 Tech Stack
-
+# 🛠 Tech Stack
 - 🌐  HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢  | MongoDB
 - 🔧  Git | 
