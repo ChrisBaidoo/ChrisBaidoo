@@ -1,4 +1,4 @@
-# Hi there, Im Christian👋
+# Hi there, Im Christian 👋🏾
 
 Im a Frontend Developer with Digital Marketing background and a love for anything Tech. I am a big fan of Javascript, React and Node.
 My hobbies include, solving coding challenges on codewars, reading, hitting the gym, and a long time ago, playing American football.
