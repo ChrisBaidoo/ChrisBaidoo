@@ -1,10 +1,10 @@
 # Hi there, Im Christian👋
 
 Im a Frontend Developer with Digital Marketing background and love for anything Tech. I am a big fan of Javascript, React and Node.
-As a hobby, I like solving coding challenges on codewars, reading, hitting the gym, and a long time ago, playing American football.
+My hobbies include, solving coding challenges on codewars, reading, hitting the gym, and a long time ago, playing American football.
 
 # 🛠 Tech Stack
-- 🌐  HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS |
+- 🌐  HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Express
 - 🛢  MongoDB
 - 🔧  Git
 - 🖥  Illustrator| Photoshop | InDesign
@@ -16,7 +16,6 @@ As a hobby, I like solving coding challenges on codewars, reading, hitting the g
 **ChrisBaidoo/ChrisBaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #### Im a Frontend Developer with Digital Marketing background and love for everything Tech. I am a big fan of Javascript, React and Node.
-As a hobby, I like solving coding challenges on codewars, reading, hitting the gym, and a long time ago, playing American football
 
 
 
